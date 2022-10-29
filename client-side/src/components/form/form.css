@@ -1,0 +1,13 @@
+.paper {
+    padding: 30px;
+    background-color: wheat;
+  }
+.form {
+    display: 'flex';
+    flex-wrap: 'wrap';
+    justify-content: 'center';
+  }
+.fileInput {
+    width: '97%';
+    padding: 10px 0;
+}

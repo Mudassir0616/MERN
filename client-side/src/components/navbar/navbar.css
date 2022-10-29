@@ -1,0 +1,12 @@
+.appbar{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   text-decoration: none;
+   
+}
+.heading{
+    padding-top: 10px;
+
+}
